@@ -50,4 +50,4 @@ moly={"서영팍":"천재"}
 
 pirnt(holy['박서영'])
 
-del moly["박서영"]
+del holy["박서영"]
